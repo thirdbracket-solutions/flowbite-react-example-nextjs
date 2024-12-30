@@ -1,6 +1,5 @@
 {
-  "name": "flowbite-react-example",
-  "version": "0.1.0",
+  "name": "flowbite-react-nextjs-starter",
   "private": true,
   "scripts": {
     "dev": "next dev",
